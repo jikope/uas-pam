@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Direktori Film</string>
+    <string name="app_description">Aplikasi Direktori Film ini dibuat oleh Bima Wiratama dengan NIM 19.11.3022</string>
+    <string name="about_title">Tentang Aplikasi</string>
+    <string name="view_movie_synopsis">Sinopsis</string>
+    <string name="view_movie_language">Bahasa</string>
+    <string name="view_movie_release">Tanggal Rilis</string>
+    <string name="view_movie_budget">Budget</string>
+    <string name="view_movie_revenue">Penghasilan</string>
+    <string name="view_movie_score">Skor</string>
+    <string name="main_trending_headline">Trending Minggu Ini</string>
+</resources>

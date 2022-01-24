@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:layout_marginBottom="10dp">
+
+    <ImageView
+        android:id="@+id/movie_poster"
+        android:layout_width="100dp"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:id="@+id/movie_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="107dp"
+        android:textSize="17dp"
+        android:text="Movie Title" />
+
+    <TextView
+        android:id="@+id/movie_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="107dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:layout_marginTop="34dp"
+        android:textSize="13dp"
+        android:text="Movie Description" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="107dp"
+        android:layout_marginTop="75dp"
+        android:textSize="11dp"
+        android:text="Release: " />
+
+    <TextView
+        android:id="@+id/movie_release"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="157dp"
+        android:layout_marginTop="75dp"
+        android:textColor="#FF0000"
+        android:textSize="11dp"
+        android:text="19 Februari 2021" />
+
+</RelativeLayout>

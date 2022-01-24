@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Directory</string>
+    <string name="app_description">This Movie Directory application was created by Bima Wiratama with NIM 19.11.3022</string>
+    <string name="about_title">About Application</string>
+    <string name="main_trending_headline">This Week\'s Trendings</string>
+    <string name="view_movie_release">Release Date</string>
+    <string name="view_movie_language">Language</string>
+    <string name="view_movie_synopsis">Synopsis</string>
+    <string name="view_movie_budget">Budget</string>
+    <string name="view_movie_revenue">Revenue</string>
+    <string name="view_movie_score">Score</string>
+</resources>
